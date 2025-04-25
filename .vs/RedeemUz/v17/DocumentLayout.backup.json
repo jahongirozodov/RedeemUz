@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\j.ozodov\\Desktop\\RedeemUz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8057C61F-A2EB-4C81-9F32-5EC3CA38FE0B}|src\\RedeemUz.WebApi\\RedeemUz.WebApi.csproj|c:\\users\\j.ozodov\\desktop\\redeemuz\\src\\redeemuz.webapi\\redeemuz.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8057C61F-A2EB-4C81-9F32-5EC3CA38FE0B}|src\\RedeemUz.WebApi\\RedeemUz.WebApi.csproj|solutionrelative:src\\redeemuz.webapi\\redeemuz.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8057C61F-A2EB-4C81-9F32-5EC3CA38FE0B}|src\\RedeemUz.WebApi\\RedeemUz.WebApi.csproj|c:\\users\\j.ozodov\\desktop\\redeemuz\\src\\redeemuz.webapi\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8057C61F-A2EB-4C81-9F32-5EC3CA38FE0B}|src\\RedeemUz.WebApi\\RedeemUz.WebApi.csproj|solutionrelative:src\\redeemuz.webapi\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedeemUz.WebApi",
+              "DocumentMoniker": "C:\\Users\\j.ozodov\\Desktop\\RedeemUz\\src\\RedeemUz.WebApi\\RedeemUz.WebApi.csproj",
+              "RelativeDocumentMoniker": "src\\RedeemUz.WebApi\\RedeemUz.WebApi.csproj",
+              "ToolTip": "C:\\Users\\j.ozodov\\Desktop\\RedeemUz\\src\\RedeemUz.WebApi\\RedeemUz.WebApi.csproj",
+              "RelativeToolTip": "src\\RedeemUz.WebApi\\RedeemUz.WebApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T12:53:31.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\j.ozodov\\Desktop\\RedeemUz\\src\\RedeemUz.WebApi\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\RedeemUz.WebApi\\Class1.cs",
+              "ToolTip": "C:\\Users\\j.ozodov\\Desktop\\RedeemUz\\src\\RedeemUz.WebApi\\Class1.cs",
+              "RelativeToolTip": "src\\RedeemUz.WebApi\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:53:32.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+C:\Users\j.ozodov\Desktop\RedeemUz\src\RedeemUz.Domain\obj\Debug\net8.0\RedeemUz.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.ozodov\Desktop\RedeemUz\src\RedeemUz.Domain\obj\Debug\net8.0\RedeemUz.Domain.AssemblyInfoInputs.cache
+C:\Users\j.ozodov\Desktop\RedeemUz\src\RedeemUz.Domain\obj\Debug\net8.0\RedeemUz.Domain.AssemblyInfo.cs
+C:\Users\j.ozodov\Desktop\RedeemUz\src\RedeemUz.Domain\obj\Debug\net8.0\RedeemUz.Domain.csproj.CoreCompileInputs.cache

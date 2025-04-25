@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\j.ozodov\\Desktop\\RedeemUz\\RedeemUz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED40AAAD-0962-433A-9A8B-83068D69AB5A}|src\\Taxify.Service\\Taxify.Service.csproj|c:\\users\\j.ozodov\\desktop\\redeemuz\\redeemuz\\src\\taxify.service\\dtos\\drives\\drivecreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED40AAAD-0962-433A-9A8B-83068D69AB5A}|src\\Taxify.Service\\Taxify.Service.csproj|solutionrelative:src\\taxify.service\\dtos\\drives\\drivecreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E270FB96-F5D2-40F1-9788-31B36EB09193}|src\\Taxify.DataAccess\\Taxify.DataAccess.csproj|c:\\users\\j.ozodov\\desktop\\redeemuz\\redeemuz\\src\\taxify.dataaccess\\contexts\\taxifydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E270FB96-F5D2-40F1-9788-31B36EB09193}|src\\Taxify.DataAccess\\Taxify.DataAccess.csproj|solutionrelative:src\\taxify.dataaccess\\contexts\\taxifydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9073095A-A04E-417E-8202-7BAA920DC884}|Taxify.Web\\Taxify.Web.csproj|c:\\users\\j.ozodov\\desktop\\redeemuz\\redeemuz\\taxify.web\\helpers\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9073095A-A04E-417E-8202-7BAA920DC884}|Taxify.Web\\Taxify.Web.csproj|solutionrelative:taxify.web\\helpers\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED40AAAD-0962-433A-9A8B-83068D69AB5A}|src\\Taxify.Service\\Taxify.Service.csproj|c:\\users\\j.ozodov\\desktop\\redeemuz\\redeemuz\\src\\taxify.service\\dtos\\drives\\driveupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED40AAAD-0962-433A-9A8B-83068D69AB5A}|src\\Taxify.Service\\Taxify.Service.csproj|solutionrelative:src\\taxify.service\\dtos\\drives\\driveupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16B4182-0589-4A7B-BE31-8D0639041BB5}|src\\Taxify.WebApi\\Taxify.WebApi.csproj|c:\\users\\j.ozodov\\desktop\\redeemuz\\redeemuz\\src\\taxify.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16B4182-0589-4A7B-BE31-8D0639041BB5}|src\\Taxify.WebApi\\Taxify.WebApi.csproj|solutionrelative:src\\taxify.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9073095A-A04E-417E-8202-7BAA920DC884}|Taxify.Web\\Taxify.Web.csproj|c:\\users\\j.ozodov\\desktop\\redeemuz\\redeemuz\\taxify.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9073095A-A04E-417E-8202-7BAA920DC884}|Taxify.Web\\Taxify.Web.csproj|solutionrelative:taxify.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DriveCreationDto.cs",
+              "DocumentMoniker": "C:\\Users\\j.ozodov\\Desktop\\RedeemUz\\RedeemUz\\src\\Taxify.Service\\DTOs\\Drives\\DriveCreationDto.cs",
+              "RelativeDocumentMoniker": "src\\Taxify.Service\\DTOs\\Drives\\DriveCreationDto.cs",
+              "ToolTip": "C:\\Users\\j.ozodov\\Desktop\\RedeemUz\\RedeemUz\\src\\Taxify.Service\\DTOs\\Drives\\DriveCreationDto.cs",
+              "RelativeToolTip": "src\\Taxify.Service\\DTOs\\Drives\\DriveCreationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:45:26.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaxifyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\j.ozodov\\Desktop\\RedeemUz\\RedeemUz\\src\\Taxify.DataAccess\\Contexts\\TaxifyDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Taxify.DataAccess\\Contexts\\TaxifyDbContext.cs",
+              "ToolTip": "C:\\Users\\j.ozodov\\Desktop\\RedeemUz\\RedeemUz\\src\\Taxify.DataAccess\\Contexts\\TaxifyDbContext.cs",
+              "RelativeToolTip": "src\\Taxify.DataAccess\\Contexts\\TaxifyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:45:20.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\j.ozodov\\Desktop\\RedeemUz\\RedeemUz\\Taxify.Web\\Helpers\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Taxify.Web\\Helpers\\ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\j.ozodov\\Desktop\\RedeemUz\\RedeemUz\\Taxify.Web\\Helpers\\ExceptionFilter.cs",
+              "RelativeToolTip": "Taxify.Web\\Helpers\\ExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:45:15.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DriveUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\j.ozodov\\Desktop\\RedeemUz\\RedeemUz\\src\\Taxify.Service\\DTOs\\Drives\\DriveUpdateDto.cs",
+              "RelativeDocumentMoniker": "src\\Taxify.Service\\DTOs\\Drives\\DriveUpdateDto.cs",
+              "ToolTip": "C:\\Users\\j.ozodov\\Desktop\\RedeemUz\\RedeemUz\\src\\Taxify.Service\\DTOs\\Drives\\DriveUpdateDto.cs",
+              "RelativeToolTip": "src\\Taxify.Service\\DTOs\\Drives\\DriveUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:45:09.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\j.ozodov\\Desktop\\RedeemUz\\RedeemUz\\src\\Taxify.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Taxify.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\j.ozodov\\Desktop\\RedeemUz\\RedeemUz\\src\\Taxify.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\Taxify.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:45:04.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\j.ozodov\\Desktop\\RedeemUz\\RedeemUz\\Taxify.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Taxify.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\j.ozodov\\Desktop\\RedeemUz\\RedeemUz\\Taxify.Web\\Program.cs",
+              "RelativeToolTip": "Taxify.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T12:45:02.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
