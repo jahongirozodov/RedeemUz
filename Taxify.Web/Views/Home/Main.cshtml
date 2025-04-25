@@ -1,0 +1,12 @@
+﻿@{
+    Layout = "Menubar";
+}
+
+@* 
+//<link rel="stylesheet" href="~/css/main.css" />
+ *@
+<form action="/route" method="POST">
+    <input type="hidden" name="_method" value="DELETE">
+    <input type="hidden" name="_token" value="the_token">
+    <button type="submit" class="btn btn-link" onclick="if (!confirm('Are you sure?')) { return false }"><span>Delete</span></button>
+</form>
